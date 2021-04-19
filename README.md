@@ -2,6 +2,9 @@
 ------
 Only Beta Game will be released here!
 ------
+
+Will use Unity for this Project, so i could need help.
+
 A 2D Game, where you play as a Wizard. You can either choose good or bad site, depends how you like it. There will be different classes like Pyrotechnician, Time Mechanican, Angel / Demon (depends on what Site you choose), Berserk who can controll Matter and other classes, depends on how i could implement these.
 
 You will be able to fight with skills, that you can unlock by playing quest, fishing, leveling up, or buying them in a shop.
