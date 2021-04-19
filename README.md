@@ -8,7 +8,9 @@ You will be able to fight with skills, that you can unlock by playing quest, fis
 Im going to plan 12 different skills for each class.
 
 Also features In-Game items with different skills, they will all be uknown since you tested them.
+
 Items will be uknown since you used them once, so be careful what you use. (There will be a special Item when you die)
+
 This also includes clothes, but not appearance clothes.
 
 You can also choose different perks at the Start of the Game, which can't be changed afterwards.
